@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "videoId": "wFOjWCLPDDM",
   "duration": 47.573375,
   "bonus": {
@@ -12,245 +12,350 @@
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 3.03,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 3.31,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 3.59,
       "lane": 5,
       "sound": "pururu",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "푸루루",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 3.99,
       "lane": 5,
       "sound": "pururu",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "푸루루",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 4.17,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 4.5,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 4.7,
       "lane": 0,
       "sound": "이",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "이",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 4.86,
       "lane": 0,
       "sound": "이",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "이",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 5,
       "lane": 0,
       "sound": "이",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "이",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 5.28,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 5.62,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 5.86,
       "lane": 5,
       "sound": "pururu",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "푸루루",
+      "sectionId": "intro",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 6.96,
       "lane": 0,
       "sound": "이",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "이",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 7.54,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 8.15,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 8.43,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 8.72,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 9,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 9.28,
       "lane": 3,
       "sound": "우",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "우",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 9.85,
       "lane": 4,
       "sound": "라",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "라",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 10.42,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 10.85,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 11.13,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 11.42,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 11.96,
       "lane": 3,
       "sound": "우",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "우",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 12.24,
       "lane": 4,
       "sound": "라",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "라",
+      "sectionId": "verse-a",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 13.77,
       "lane": 0,
       "sound": "이",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "이",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 14.35,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 14.92,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 15.2,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 15.49,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 15.78,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 16.1,
       "lane": 3,
       "sound": "우",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "우",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 16.67,
       "lane": 4,
       "sound": "라",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "라",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 17.25,
@@ -258,7 +363,10 @@
       "sound": "pururu",
       "part": "backing",
       "timingStatus": "manual-estimate",
-      "classificationBasis": "Caption phrase explicitly identifies three pururu sounds; user requires the pururu button."
+      "classificationBasis": "Caption phrase explicitly identifies three pururu sounds; user requires the pururu button.",
+      "syllable": "푸루루",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 17.54,
@@ -266,7 +374,10 @@
       "sound": "pururu",
       "part": "backing",
       "timingStatus": "manual-estimate",
-      "classificationBasis": "Caption phrase explicitly identifies three pururu sounds; user requires the pururu button."
+      "classificationBasis": "Caption phrase explicitly identifies three pururu sounds; user requires the pururu button.",
+      "syllable": "푸루루",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 18.1,
@@ -274,119 +385,182 @@
       "sound": "pururu",
       "part": "backing",
       "timingStatus": "spectral-onset",
-      "classificationBasis": "Caption phrase explicitly identifies three pururu sounds; user requires the pururu button. Third roll aligned to its strong vocal onset, rather than an evenly spaced guess."
+      "classificationBasis": "Caption phrase explicitly identifies three pururu sounds; user requires the pururu button. Third roll aligned to its strong vocal onset, rather than an evenly spaced guess.",
+      "syllable": "푸루루",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 18.78,
       "lane": 3,
       "sound": "우",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "우",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 19.06,
       "lane": 4,
       "sound": "라",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "라",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
+    },
+    {
+      "time": 20.16,
+      "lane": 6,
+      "sound": "하",
+      "part": "mermaid",
+      "timingStatus": "spectral-onset",
+      "userMarker": "double-parenthesis",
+      "classificationBasis": "User explicitly identifies the missing ((ha)) as mermaid; attack estimated from the isolated envelope after the second lead ura.",
+      "syllable": "하",
+      "sectionId": "verse-b",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 20.63,
       "lane": 0,
       "sound": "이",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "이",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 21.2,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 21.78,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 22.06,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 22.35,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 22.64,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 22.96,
       "lane": 3,
       "sound": "우",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "우",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 23.53,
       "lane": 4,
       "sound": "라",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "라",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 24.1,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 24.39,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 24.67,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 24.96,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 25.63,
       "lane": 3,
       "sound": "우",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "우",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 25.91,
       "lane": 4,
       "sound": "라",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "라",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 26.65,
@@ -395,7 +569,10 @@
       "part": "mermaid",
       "timingStatus": "spectral-onset",
       "previousTime": 26.2,
-      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified.",
+      "syllable": "예",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 27.22,
@@ -404,77 +581,128 @@
       "part": "mermaid",
       "timingStatus": "spectral-onset",
       "previousTime": 26.49,
-      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified.",
+      "syllable": "예",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 27.68,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 28.23,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "야",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 28.55,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 29.2,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "manual-estimate",
+      "syllable": "하",
+      "sectionId": "verse-c",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 29.76,
+      "time": 29.78,
       "lane": 3,
       "sound": "우",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 29.76,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "우",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 30.05,
+      "time": 30.06,
       "lane": 4,
       "sound": "라",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 30.05,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "라",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 30.34,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 30.34,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "예",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 30.62,
+      "time": 30.98,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 30.62,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "야",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 30.91,
+      "time": 31.26,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 30.91,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "하",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 31.2,
+      "time": 31.54,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 31.2,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "예",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 32.1,
@@ -482,26 +710,38 @@
       "sound": "우",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 31.82,
-      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+      "previousTime": 32.1,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "우",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 32.36,
+      "time": 32.38,
       "lane": 4,
       "sound": "라",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 32.1,
-      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+      "previousTime": 32.36,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "라",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 32.64,
+      "time": 32.66,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
       "timingStatus": "spectral-onset",
-      "previousTime": 32.38,
-      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+      "previousTime": 32.64,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "예",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 32.94,
@@ -509,8 +749,12 @@
       "sound": "하",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 32.67,
-      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+      "previousTime": 32.94,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "하",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 33.5,
@@ -518,8 +762,12 @@
       "sound": "하",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 32.96,
-      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+      "previousTime": 33.5,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "하",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 33.8,
@@ -527,8 +775,12 @@
       "sound": "response",
       "part": "mermaid",
       "timingStatus": "spectral-onset",
-      "previousTime": 33.24,
-      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+      "previousTime": 33.8,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "예",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 34.1,
@@ -536,8 +788,12 @@
       "sound": "하",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 33.81,
-      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+      "previousTime": 34.1,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "하",
+      "sectionId": "exchange",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 37.26,
@@ -545,7 +801,10 @@
       "part": "mermaid",
       "lane": 6,
       "timingStatus": "spectral-onset",
-      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates."
+      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates.",
+      "syllable": "하",
+      "sectionId": "final-chorus",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 38.41,
@@ -553,7 +812,10 @@
       "part": "mermaid",
       "lane": 6,
       "timingStatus": "spectral-onset",
-      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates."
+      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates.",
+      "syllable": "하",
+      "sectionId": "final-chorus",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 39.55,
@@ -561,7 +823,10 @@
       "part": "mermaid",
       "lane": 6,
       "timingStatus": "spectral-onset",
-      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates."
+      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates.",
+      "syllable": "하",
+      "sectionId": "final-chorus",
+      "sequenceBasis": "user-confirmed"
     },
     {
       "time": 40.7,
@@ -569,63 +834,114 @@
       "part": "mermaid",
       "lane": 6,
       "timingStatus": "spectral-onset",
-      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates."
+      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates.",
+      "syllable": "하",
+      "sectionId": "final-chorus",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 41,
+      "time": 41.54,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 41,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "하",
+      "sectionId": "outro",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 41.55,
+      "time": 41.82,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 41.55,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "야",
+      "sectionId": "outro",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 41.84,
+      "time": 42.1,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 41.84,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "하",
+      "sectionId": "outro",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 42.12,
+      "time": 42.38,
       "lane": 0,
       "sound": "이",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 42.12,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "이",
+      "sectionId": "outro",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 42.41,
+      "time": 42.66,
       "lane": 0,
       "sound": "이",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 42.41,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "이",
+      "sectionId": "outro",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 42.69,
+      "time": 42.94,
       "lane": 0,
       "sound": "이",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 42.69,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "이",
+      "sectionId": "outro",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 42.97,
+      "time": 43.24,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 42.97,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "야",
+      "sectionId": "outro",
+      "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 43.26,
+      "time": 44.08,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate"
+      "timingStatus": "spectral-onset",
+      "previousTime": 43.26,
+      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "userMarker": "single-parenthesis",
+      "syllable": "하",
+      "sectionId": "outro",
+      "sequenceBasis": "user-confirmed"
     }
   ],
   "timingBasis": "Original audio and caption audio have zero lag (correlation 0.998707). Phrase boundaries are from captions; within-phrase timestamps remain manually estimated and are not listening-verified.",
@@ -646,6 +962,169 @@
     {
       "range": "32.10–34.10",
       "change": "Aligned the seven-event lead/response exchange with vocal envelopes; retained existing button mapping."
+    },
+    {
+      "range": "20.16",
+      "change": "Added missing mermaid ha explicitly identified by user double parentheses."
+    },
+    {
+      "range": "29.78–34.10",
+      "change": "Preserved the user-confirmed 13-syllable exchange and moved early ya/ha/response notes onto later vocal attacks."
+    },
+    {
+      "range": "41.54–44.08",
+      "change": "Rebuilt eight ending syllable onsets using the user sequence and harmonic attacks; removed old early phrase-boundary placement."
+    }
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "start": 2.5,
+      "end": 6.9,
+      "syllables": [
+        "하",
+        "야",
+        "하",
+        "푸루루",
+        "푸루루",
+        "야",
+        "하",
+        "이",
+        "이",
+        "이",
+        "야",
+        "하",
+        "푸루루"
+      ],
+      "sequenceBasis": "User message 2026-10-20",
+      "timingBasis": "Per-event timingStatus; exact milliseconds remain estimates."
+    },
+    {
+      "id": "verse-a",
+      "start": 6.9,
+      "end": 13.7,
+      "syllables": [
+        "이",
+        "야",
+        "야",
+        "하",
+        "야",
+        "하",
+        "우",
+        "라",
+        "하",
+        "하",
+        "하",
+        "야",
+        "우",
+        "라"
+      ],
+      "sequenceBasis": "User message 2026-10-20",
+      "timingBasis": "Per-event timingStatus; exact milliseconds remain estimates."
+    },
+    {
+      "id": "verse-b",
+      "start": 13.7,
+      "end": 20.6,
+      "syllables": [
+        "이",
+        "야",
+        "야",
+        "하",
+        "야",
+        "하",
+        "우",
+        "라",
+        "푸루루",
+        "푸루루",
+        "푸루루",
+        "우",
+        "라",
+        "하"
+      ],
+      "sequenceBasis": "User message 2026-10-20",
+      "timingBasis": "Per-event timingStatus; exact milliseconds remain estimates."
+    },
+    {
+      "id": "verse-c",
+      "start": 20.6,
+      "end": 29.7,
+      "syllables": [
+        "이",
+        "야",
+        "야",
+        "하",
+        "야",
+        "하",
+        "우",
+        "라",
+        "하",
+        "하",
+        "하",
+        "야",
+        "우",
+        "라",
+        "예",
+        "예",
+        "야",
+        "야",
+        "하",
+        "하"
+      ],
+      "sequenceBasis": "User message 2026-10-20",
+      "timingBasis": "Per-event timingStatus; exact milliseconds remain estimates."
+    },
+    {
+      "id": "exchange",
+      "start": 29.7,
+      "end": 34.5,
+      "syllables": [
+        "우",
+        "라",
+        "예",
+        "야",
+        "하",
+        "예",
+        "우",
+        "라",
+        "예",
+        "하",
+        "하",
+        "예",
+        "하"
+      ],
+      "sequenceBasis": "User message 2026-10-20",
+      "timingBasis": "Per-event timingStatus; exact milliseconds remain estimates."
+    },
+    {
+      "id": "final-chorus",
+      "start": 37,
+      "end": 41,
+      "syllables": [
+        "하",
+        "하",
+        "하",
+        "하"
+      ],
+      "sequenceBasis": "User message 2026-10-20",
+      "timingBasis": "Per-event timingStatus; exact milliseconds remain estimates."
+    },
+    {
+      "id": "outro",
+      "start": 41,
+      "end": 45,
+      "syllables": [
+        "하",
+        "야",
+        "하",
+        "이",
+        "이",
+        "이",
+        "야",
+        "하"
+      ],
+      "sequenceBasis": "User message 2026-10-20",
+      "timingBasis": "Per-event timingStatus; exact milliseconds remain estimates."
     }
   ]
 }
