@@ -1,0 +1,651 @@
+{
+  "version": 3,
+  "videoId": "wFOjWCLPDDM",
+  "duration": 47.573375,
+  "bonus": {
+    "start": 34.5,
+    "end": 37.72
+  },
+  "events": [
+    {
+      "time": 2.72,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 3.03,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 3.31,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 3.59,
+      "lane": 5,
+      "sound": "pururu",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 3.99,
+      "lane": 5,
+      "sound": "pururu",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 4.17,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 4.5,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 4.7,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 4.86,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 5,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 5.28,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 5.62,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 5.86,
+      "lane": 5,
+      "sound": "pururu",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 6.96,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 7.54,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 8.15,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 8.43,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 8.72,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 9,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 9.28,
+      "lane": 3,
+      "sound": "우",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 9.85,
+      "lane": 4,
+      "sound": "라",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 10.42,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 10.85,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 11.13,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 11.42,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 11.96,
+      "lane": 3,
+      "sound": "우",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 12.24,
+      "lane": 4,
+      "sound": "라",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 13.77,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 14.35,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 14.92,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 15.2,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 15.49,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 15.78,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 16.1,
+      "lane": 3,
+      "sound": "우",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 16.67,
+      "lane": 4,
+      "sound": "라",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 17.25,
+      "lane": 5,
+      "sound": "pururu",
+      "part": "backing",
+      "timingStatus": "manual-estimate",
+      "classificationBasis": "Caption phrase explicitly identifies three pururu sounds; user requires the pururu button."
+    },
+    {
+      "time": 17.54,
+      "lane": 5,
+      "sound": "pururu",
+      "part": "backing",
+      "timingStatus": "manual-estimate",
+      "classificationBasis": "Caption phrase explicitly identifies three pururu sounds; user requires the pururu button."
+    },
+    {
+      "time": 18.1,
+      "lane": 5,
+      "sound": "pururu",
+      "part": "backing",
+      "timingStatus": "spectral-onset",
+      "classificationBasis": "Caption phrase explicitly identifies three pururu sounds; user requires the pururu button. Third roll aligned to its strong vocal onset, rather than an evenly spaced guess."
+    },
+    {
+      "time": 18.78,
+      "lane": 3,
+      "sound": "우",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 19.06,
+      "lane": 4,
+      "sound": "라",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 20.63,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 21.2,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 21.78,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 22.06,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 22.35,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 22.64,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 22.96,
+      "lane": 3,
+      "sound": "우",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 23.53,
+      "lane": 4,
+      "sound": "라",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 24.1,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 24.39,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 24.67,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 24.96,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 25.63,
+      "lane": 3,
+      "sound": "우",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 25.91,
+      "lane": 4,
+      "sound": "라",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 26.65,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "spectral-onset",
+      "previousTime": 26.2,
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+    },
+    {
+      "time": 27.22,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "spectral-onset",
+      "previousTime": 26.49,
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+    },
+    {
+      "time": 27.68,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 28.23,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 28.55,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 29.2,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 29.76,
+      "lane": 3,
+      "sound": "우",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 30.05,
+      "lane": 4,
+      "sound": "라",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 30.34,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 30.62,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 30.91,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 31.2,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 32.1,
+      "lane": 3,
+      "sound": "우",
+      "part": "usagi",
+      "timingStatus": "spectral-onset",
+      "previousTime": 31.82,
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+    },
+    {
+      "time": 32.36,
+      "lane": 4,
+      "sound": "라",
+      "part": "usagi",
+      "timingStatus": "spectral-onset",
+      "previousTime": 32.1,
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+    },
+    {
+      "time": 32.64,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "spectral-onset",
+      "previousTime": 32.38,
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+    },
+    {
+      "time": 32.94,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "spectral-onset",
+      "previousTime": 32.67,
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+    },
+    {
+      "time": 33.5,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "spectral-onset",
+      "previousTime": 32.96,
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+    },
+    {
+      "time": 33.8,
+      "lane": 6,
+      "sound": "response",
+      "part": "mermaid",
+      "timingStatus": "spectral-onset",
+      "previousTime": 33.24,
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+    },
+    {
+      "time": 34.1,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "spectral-onset",
+      "previousTime": 33.81,
+      "timingBasis": "Estimated vocal-envelope attack within the caption-confirmed response order; not listening-verified."
+    },
+    {
+      "time": 37.26,
+      "sound": "response",
+      "part": "mermaid",
+      "lane": 6,
+      "timingStatus": "spectral-onset",
+      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates."
+    },
+    {
+      "time": 38.41,
+      "sound": "response",
+      "part": "mermaid",
+      "lane": 6,
+      "timingStatus": "spectral-onset",
+      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates."
+    },
+    {
+      "time": 39.55,
+      "sound": "response",
+      "part": "mermaid",
+      "lane": 6,
+      "timingStatus": "spectral-onset",
+      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates."
+    },
+    {
+      "time": 40.7,
+      "sound": "response",
+      "part": "mermaid",
+      "lane": 6,
+      "timingStatus": "spectral-onset",
+      "classificationBasis": "Four backing calls in the reference captions, supported by four strong stereo-difference vocal envelopes; attack positions remain signal-based estimates."
+    },
+    {
+      "time": 41,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 41.55,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 41.84,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 42.12,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 42.41,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 42.69,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 42.97,
+      "lane": 1,
+      "sound": "야",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    },
+    {
+      "time": 43.26,
+      "lane": 2,
+      "sound": "하",
+      "part": "usagi",
+      "timingStatus": "manual-estimate"
+    }
+  ],
+  "timingBasis": "Original audio and caption audio have zero lag (correlation 0.998707). Phrase boundaries are from captions; within-phrase timestamps remain manually estimated and are not listening-verified.",
+  "mappingPolicy": "The pururu sound always uses button 5, including backing vocals; other mermaid responses use button 6. Mermaid responses may overlap the bonus.",
+  "corrections": [
+    {
+      "range": "17.25–18.10",
+      "change": "Three rolls use the pururu button; corrected third onset."
+    },
+    {
+      "range": "37.26–40.70",
+      "change": "Replaced six evenly spaced responses with four audio-envelope-aligned calls. First call overlaps the shout bonus."
+    },
+    {
+      "range": "26.65–27.22",
+      "change": "Moved two backing responses away from the preceding lead vocal to the two later vocal envelopes."
+    },
+    {
+      "range": "32.10–34.10",
+      "change": "Aligned the seven-event lead/response exchange with vocal envelopes; retained existing button mapping."
+    }
+  ]
+}
