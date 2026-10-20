@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "videoId": "wFOjWCLPDDM",
   "duration": 47.573375,
   "bonus": {
@@ -503,44 +503,52 @@
       "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 24.1,
+      "time": 24.14,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate",
+      "timingStatus": "spectral-onset",
       "syllable": "하",
       "sectionId": "verse-c",
-      "sequenceBasis": "user-confirmed"
+      "sequenceBasis": "user-confirmed",
+      "previousTime": 24.1,
+      "timingBasis": "Vocal-envelope attack and repeated-chorus relative timing; signal-based estimate."
     },
     {
-      "time": 24.39,
+      "time": 24.57,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate",
+      "timingStatus": "spectral-onset",
       "syllable": "하",
       "sectionId": "verse-c",
-      "sequenceBasis": "user-confirmed"
+      "sequenceBasis": "user-confirmed",
+      "previousTime": 24.39,
+      "timingBasis": "Vocal-envelope attack and repeated-chorus relative timing; signal-based estimate."
     },
     {
-      "time": 24.67,
+      "time": 24.86,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate",
+      "timingStatus": "spectral-onset",
       "syllable": "하",
       "sectionId": "verse-c",
-      "sequenceBasis": "user-confirmed"
+      "sequenceBasis": "user-confirmed",
+      "previousTime": 24.67,
+      "timingBasis": "Vocal-envelope attack and repeated-chorus relative timing; signal-based estimate."
     },
     {
-      "time": 24.96,
+      "time": 25.14,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate",
+      "timingStatus": "spectral-onset",
       "syllable": "야",
       "sectionId": "verse-c",
-      "sequenceBasis": "user-confirmed"
+      "sequenceBasis": "user-confirmed",
+      "previousTime": 24.96,
+      "timingBasis": "Vocal-envelope attack and repeated-chorus relative timing; signal-based estimate."
     },
     {
       "time": 25.63,
@@ -553,14 +561,16 @@
       "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 25.91,
+      "time": 25.84,
       "lane": 4,
       "sound": "라",
       "part": "usagi",
-      "timingStatus": "manual-estimate",
+      "timingStatus": "spectral-onset",
       "syllable": "라",
       "sectionId": "verse-c",
-      "sequenceBasis": "user-confirmed"
+      "sequenceBasis": "user-confirmed",
+      "previousTime": 25.91,
+      "timingBasis": "Vocal-envelope attack and repeated-chorus relative timing; signal-based estimate."
     },
     {
       "time": 26.65,
@@ -587,44 +597,52 @@
       "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 27.68,
+      "time": 27.64,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
-      "timingStatus": "manual-estimate",
+      "timingStatus": "spectral-onset",
       "syllable": "야",
       "sectionId": "verse-c",
-      "sequenceBasis": "user-confirmed"
+      "sequenceBasis": "user-confirmed",
+      "previousTime": 27.68,
+      "timingBasis": "Vocal-envelope attack and repeated-chorus relative timing; signal-based estimate."
     },
     {
-      "time": 28.23,
+      "time": 28.2,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate",
+      "timingStatus": "spectral-onset",
       "syllable": "야",
       "sectionId": "verse-c",
-      "sequenceBasis": "user-confirmed"
+      "sequenceBasis": "user-confirmed",
+      "previousTime": 28.23,
+      "timingBasis": "Vocal-envelope attack and repeated-chorus relative timing; signal-based estimate."
     },
     {
-      "time": 28.55,
+      "time": 28.65,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
-      "timingStatus": "manual-estimate",
+      "timingStatus": "spectral-onset",
       "syllable": "하",
       "sectionId": "verse-c",
-      "sequenceBasis": "user-confirmed"
+      "sequenceBasis": "user-confirmed",
+      "previousTime": 28.55,
+      "timingBasis": "Vocal-envelope attack and repeated-chorus relative timing; signal-based estimate."
     },
     {
-      "time": 29.2,
+      "time": 29.24,
       "lane": 6,
       "sound": "response",
       "part": "mermaid",
-      "timingStatus": "manual-estimate",
+      "timingStatus": "spectral-onset",
       "syllable": "하",
       "sectionId": "verse-c",
-      "sequenceBasis": "user-confirmed"
+      "sequenceBasis": "user-confirmed",
+      "previousTime": 29.2,
+      "timingBasis": "Vocal-envelope attack and repeated-chorus relative timing; signal-based estimate."
     },
     {
       "time": 29.78,
@@ -840,41 +858,54 @@
       "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 41.54,
+      "time": 41.26,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 41,
-      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "previousTime": 41.54,
+      "timingBasis": "Corrected one-syllable event-to-envelope assignment; the 44-second tail is excluded. Signal-based estimate.",
       "userMarker": "single-parenthesis",
       "syllable": "하",
       "sectionId": "outro",
       "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 41.82,
+      "time": 41.54,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 41.55,
-      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "previousTime": 41.82,
+      "timingBasis": "Corrected one-syllable event-to-envelope assignment; the 44-second tail is excluded. Signal-based estimate.",
       "userMarker": "single-parenthesis",
       "syllable": "야",
       "sectionId": "outro",
       "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 42.1,
+      "time": 41.82,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 41.84,
-      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "previousTime": 42.1,
+      "timingBasis": "Corrected one-syllable event-to-envelope assignment; the 44-second tail is excluded. Signal-based estimate.",
       "userMarker": "single-parenthesis",
       "syllable": "하",
+      "sectionId": "outro",
+      "sequenceBasis": "user-confirmed"
+    },
+    {
+      "time": 42.1,
+      "lane": 0,
+      "sound": "이",
+      "part": "usagi",
+      "timingStatus": "spectral-onset",
+      "previousTime": 42.38,
+      "timingBasis": "Corrected one-syllable event-to-envelope assignment; the 44-second tail is excluded. Signal-based estimate.",
+      "userMarker": "single-parenthesis",
+      "syllable": "이",
       "sectionId": "outro",
       "sequenceBasis": "user-confirmed"
     },
@@ -884,8 +915,8 @@
       "sound": "이",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 42.12,
-      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "previousTime": 42.66,
+      "timingBasis": "Corrected one-syllable event-to-envelope assignment; the 44-second tail is excluded. Signal-based estimate.",
       "userMarker": "single-parenthesis",
       "syllable": "이",
       "sectionId": "outro",
@@ -897,8 +928,8 @@
       "sound": "이",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 42.41,
-      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "previousTime": 42.94,
+      "timingBasis": "Corrected one-syllable event-to-envelope assignment; the 44-second tail is excluded. Signal-based estimate.",
       "userMarker": "single-parenthesis",
       "syllable": "이",
       "sectionId": "outro",
@@ -906,38 +937,25 @@
     },
     {
       "time": 42.94,
-      "lane": 0,
-      "sound": "이",
-      "part": "usagi",
-      "timingStatus": "spectral-onset",
-      "previousTime": 42.69,
-      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
-      "userMarker": "single-parenthesis",
-      "syllable": "이",
-      "sectionId": "outro",
-      "sequenceBasis": "user-confirmed"
-    },
-    {
-      "time": 43.24,
       "lane": 1,
       "sound": "야",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 42.97,
-      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "previousTime": 43.24,
+      "timingBasis": "Corrected one-syllable event-to-envelope assignment; the 44-second tail is excluded. Signal-based estimate.",
       "userMarker": "single-parenthesis",
       "syllable": "야",
       "sectionId": "outro",
       "sequenceBasis": "user-confirmed"
     },
     {
-      "time": 44.08,
+      "time": 43.24,
       "lane": 2,
       "sound": "하",
       "part": "usagi",
       "timingStatus": "spectral-onset",
-      "previousTime": 43.26,
-      "timingBasis": "User-supplied syllable order aligned to harmonic-band attacks in original audio; signal-based estimate, not listening-verified.",
+      "previousTime": 44.08,
+      "timingBasis": "Corrected one-syllable event-to-envelope assignment; the 44-second tail is excluded. Signal-based estimate.",
       "userMarker": "single-parenthesis",
       "syllable": "하",
       "sectionId": "outro",
@@ -974,6 +992,18 @@
     {
       "range": "41.54–44.08",
       "change": "Rebuilt eight ending syllable onsets using the user sequence and harmonic attacks; removed old early phrase-boundary placement."
+    },
+    {
+      "range": "24.14–25.14",
+      "change": "Re-aligned the repeated four-response chorus at intervals 0.43, 0.29, 0.28 seconds instead of even 0.29-second spacing."
+    },
+    {
+      "range": "25.84–29.24",
+      "change": "Adjusted distinct lead/response attacks without applying a global offset."
+    },
+    {
+      "range": "41.26–43.24",
+      "change": "Corrected the ending event-to-envelope assignment; removed the incorrect final-ha placement at 44.08."
     }
   ],
   "sections": [
@@ -1126,5 +1156,21 @@
       "sequenceBasis": "User message 2026-10-20",
       "timingBasis": "Per-event timingStatus; exact milliseconds remain estimates."
     }
-  ]
+  ],
+  "signalEvidence": {
+    "method": "Band-limited center/side amplitude-envelope correlation of the entire repeated chorus, not raw-waveform or isolated-peak matching.",
+    "referenceRange": [
+      10.35,
+      11.7
+    ],
+    "matchedStart": {
+      "center": 24.09,
+      "side": 24.08
+    },
+    "envelopeCorrelation": {
+      "center": 0.8679664,
+      "side": 0.892649
+    },
+    "limits": "Signal matching supports relative timing only; it does not independently verify phoneme identity. Syllable order comes from the user."
+  }
 }
