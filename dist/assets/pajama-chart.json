@@ -1,0 +1,2935 @@
+{
+  "version": 1,
+  "title": "파자마 파티즈 원곡",
+  "videoId": "LzzW_TBL558",
+  "videoUrl": "https://www.youtube.com/watch?v=LzzW_TBL558",
+  "artist": "Pajama Parties",
+  "duration": 219.253312,
+  "bpm": 154.0,
+  "beatPhase": 0.22,
+  "labels": [
+    "우",
+    "와",
+    "타",
+    "쿠",
+    "차",
+    "오",
+    "기타"
+  ],
+  "keys": [
+    "S",
+    "D",
+    "F",
+    "J",
+    "K",
+    "L",
+    "A"
+  ],
+  "arrangement": "Draft rhythm chart; syllables and timing are not verified.",
+  "events": [
+    {
+      "time": 7.233,
+      "lane": 0,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 8.012,
+      "lane": 1,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 8.402,
+      "lane": 2,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 8.792,
+      "lane": 3,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 9.181,
+      "lane": 4,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 9.378,
+      "lane": 5,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 9.571,
+      "lane": 6,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 9.961,
+      "lane": 0,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 10.351,
+      "lane": 1,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 10.74,
+      "lane": 2,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 11.13,
+      "lane": 3,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 11.517,
+      "lane": 4,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 12.296,
+      "lane": 5,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 13.076,
+      "lane": 6,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 13.465,
+      "lane": 0,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 13.858,
+      "lane": 1,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 14.245,
+      "lane": 2,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 14.635,
+      "lane": 3,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 15.024,
+      "lane": 4,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 15.414,
+      "lane": 5,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 15.804,
+      "lane": 6,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 16.193,
+      "lane": 0,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 16.583,
+      "lane": 1,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 16.973,
+      "lane": 2,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 17.363,
+      "lane": 3,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 17.752,
+      "lane": 4,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 18.142,
+      "lane": 5,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 18.532,
+      "lane": 6,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 19.311,
+      "lane": 0,
+      "sectionId": "pajama-1",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 19.701,
+      "lane": 1,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 20.477,
+      "lane": 2,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 20.87,
+      "lane": 3,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 21.26,
+      "lane": 4,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 21.647,
+      "lane": 5,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 21.843,
+      "lane": 6,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 22.039,
+      "lane": 0,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 22.429,
+      "lane": 1,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 22.816,
+      "lane": 2,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 23.209,
+      "lane": 3,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 23.595,
+      "lane": 4,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 23.985,
+      "lane": 5,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 24.764,
+      "lane": 6,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 25.544,
+      "lane": 0,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 25.934,
+      "lane": 1,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 26.323,
+      "lane": 2,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 26.713,
+      "lane": 3,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 27.103,
+      "lane": 4,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 27.493,
+      "lane": 5,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 27.882,
+      "lane": 6,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 28.272,
+      "lane": 0,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 28.662,
+      "lane": 1,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 29.051,
+      "lane": 2,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 29.441,
+      "lane": 3,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 29.831,
+      "lane": 4,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 30.221,
+      "lane": 5,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 30.61,
+      "lane": 6,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 31.0,
+      "lane": 0,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 31.78,
+      "lane": 1,
+      "sectionId": "pajama-2",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 32.169,
+      "lane": 2,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 32.946,
+      "lane": 3,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 33.335,
+      "lane": 4,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 33.725,
+      "lane": 5,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 34.118,
+      "lane": 6,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 34.311,
+      "lane": 0,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 34.505,
+      "lane": 1,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 34.894,
+      "lane": 2,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 35.284,
+      "lane": 3,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 35.677,
+      "lane": 4,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 36.064,
+      "lane": 5,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 36.453,
+      "lane": 6,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 37.236,
+      "lane": 0,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 38.012,
+      "lane": 1,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 38.402,
+      "lane": 2,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 38.792,
+      "lane": 3,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 39.181,
+      "lane": 4,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 39.571,
+      "lane": 5,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 39.961,
+      "lane": 6,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 40.351,
+      "lane": 0,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 40.74,
+      "lane": 1,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 41.13,
+      "lane": 2,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 41.52,
+      "lane": 3,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 41.909,
+      "lane": 4,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 42.299,
+      "lane": 5,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 42.689,
+      "lane": 6,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 43.079,
+      "lane": 0,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 43.468,
+      "lane": 1,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 44.248,
+      "lane": 2,
+      "sectionId": "pajama-3",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 44.635,
+      "lane": 3,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 45.417,
+      "lane": 4,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 45.804,
+      "lane": 5,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 46.193,
+      "lane": 6,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 46.583,
+      "lane": 0,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 46.78,
+      "lane": 1,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 46.973,
+      "lane": 2,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 47.363,
+      "lane": 3,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 47.752,
+      "lane": 4,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 48.142,
+      "lane": 5,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 48.532,
+      "lane": 6,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 48.922,
+      "lane": 0,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 49.701,
+      "lane": 1,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 50.48,
+      "lane": 2,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 50.87,
+      "lane": 3,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 51.26,
+      "lane": 4,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 51.653,
+      "lane": 5,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 52.039,
+      "lane": 6,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 52.426,
+      "lane": 0,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 52.816,
+      "lane": 1,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 53.209,
+      "lane": 2,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 53.595,
+      "lane": 3,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 53.985,
+      "lane": 4,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 54.375,
+      "lane": 5,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 54.764,
+      "lane": 6,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 55.154,
+      "lane": 0,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 55.544,
+      "lane": 1,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 55.934,
+      "lane": 2,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 56.713,
+      "lane": 3,
+      "sectionId": "pajama-4",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 57.106,
+      "lane": 4,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 57.882,
+      "lane": 5,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 58.272,
+      "lane": 6,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 58.662,
+      "lane": 0,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 59.051,
+      "lane": 1,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 59.245,
+      "lane": 2,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 59.441,
+      "lane": 3,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 59.831,
+      "lane": 4,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 60.221,
+      "lane": 5,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 60.61,
+      "lane": 6,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 61.0,
+      "lane": 0,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 61.39,
+      "lane": 1,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 62.169,
+      "lane": 2,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 62.949,
+      "lane": 3,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 63.335,
+      "lane": 4,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 63.728,
+      "lane": 5,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 64.115,
+      "lane": 6,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 64.505,
+      "lane": 0,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 64.894,
+      "lane": 1,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 65.284,
+      "lane": 2,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 65.674,
+      "lane": 3,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 66.064,
+      "lane": 4,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 66.453,
+      "lane": 5,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 66.843,
+      "lane": 6,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 67.233,
+      "lane": 0,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 67.622,
+      "lane": 1,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 68.012,
+      "lane": 2,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 68.405,
+      "lane": 3,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 69.181,
+      "lane": 4,
+      "sectionId": "pajama-5",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 69.571,
+      "lane": 5,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 70.351,
+      "lane": 6,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 70.74,
+      "lane": 0,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 71.13,
+      "lane": 1,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 71.52,
+      "lane": 2,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 71.71,
+      "lane": 3,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 71.909,
+      "lane": 4,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 72.299,
+      "lane": 5,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 72.689,
+      "lane": 6,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 73.079,
+      "lane": 0,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 73.468,
+      "lane": 1,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 73.855,
+      "lane": 2,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 74.638,
+      "lane": 3,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 75.417,
+      "lane": 4,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 75.804,
+      "lane": 5,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 76.193,
+      "lane": 6,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 76.583,
+      "lane": 0,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 76.973,
+      "lane": 1,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 77.363,
+      "lane": 2,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 77.752,
+      "lane": 3,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 78.142,
+      "lane": 4,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 78.532,
+      "lane": 5,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 78.922,
+      "lane": 6,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 79.311,
+      "lane": 0,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 79.701,
+      "lane": 1,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 80.091,
+      "lane": 2,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 80.48,
+      "lane": 3,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 80.87,
+      "lane": 4,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 81.65,
+      "lane": 5,
+      "sectionId": "pajama-6",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 82.039,
+      "lane": 6,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 82.816,
+      "lane": 0,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 83.206,
+      "lane": 1,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 83.595,
+      "lane": 2,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 83.985,
+      "lane": 3,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 84.184,
+      "lane": 4,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 84.375,
+      "lane": 5,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 84.764,
+      "lane": 6,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 85.154,
+      "lane": 0,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 85.544,
+      "lane": 1,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 85.934,
+      "lane": 2,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 86.323,
+      "lane": 3,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 87.103,
+      "lane": 4,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 87.879,
+      "lane": 5,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 88.269,
+      "lane": 6,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 88.662,
+      "lane": 0,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 89.048,
+      "lane": 1,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 89.441,
+      "lane": 2,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 89.831,
+      "lane": 3,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 90.221,
+      "lane": 4,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 90.607,
+      "lane": 5,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 91.0,
+      "lane": 6,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 91.387,
+      "lane": 0,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 91.78,
+      "lane": 1,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 92.166,
+      "lane": 2,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 92.556,
+      "lane": 3,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 92.946,
+      "lane": 4,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 93.338,
+      "lane": 5,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 94.115,
+      "lane": 6,
+      "sectionId": "pajama-7",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 94.505,
+      "lane": 0,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 95.284,
+      "lane": 1,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 95.674,
+      "lane": 2,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 96.064,
+      "lane": 3,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 96.453,
+      "lane": 4,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 96.65,
+      "lane": 5,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 96.843,
+      "lane": 6,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 97.233,
+      "lane": 0,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 97.622,
+      "lane": 1,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 98.012,
+      "lane": 2,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 98.402,
+      "lane": 3,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 98.792,
+      "lane": 4,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 99.571,
+      "lane": 5,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 100.351,
+      "lane": 6,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 100.74,
+      "lane": 0,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 101.13,
+      "lane": 1,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 101.517,
+      "lane": 2,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 101.909,
+      "lane": 3,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 102.299,
+      "lane": 4,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 102.686,
+      "lane": 5,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 103.076,
+      "lane": 6,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 103.468,
+      "lane": 0,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 103.855,
+      "lane": 1,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 104.248,
+      "lane": 2,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 104.635,
+      "lane": 3,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 105.024,
+      "lane": 4,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 105.414,
+      "lane": 5,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 105.804,
+      "lane": 6,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 106.583,
+      "lane": 0,
+      "sectionId": "pajama-8",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 106.973,
+      "lane": 1,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 107.752,
+      "lane": 2,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 108.142,
+      "lane": 3,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 108.532,
+      "lane": 4,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 108.925,
+      "lane": 5,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 109.115,
+      "lane": 6,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 109.311,
+      "lane": 0,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 109.701,
+      "lane": 1,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 110.091,
+      "lane": 2,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 110.483,
+      "lane": 3,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 110.867,
+      "lane": 4,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 111.26,
+      "lane": 5,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 112.039,
+      "lane": 6,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 112.819,
+      "lane": 0,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 113.206,
+      "lane": 1,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 113.595,
+      "lane": 2,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 113.985,
+      "lane": 3,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 114.375,
+      "lane": 4,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 114.764,
+      "lane": 5,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 115.154,
+      "lane": 6,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 115.544,
+      "lane": 0,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 115.934,
+      "lane": 1,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 116.323,
+      "lane": 2,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 116.716,
+      "lane": 3,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 117.106,
+      "lane": 4,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 117.493,
+      "lane": 5,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 117.882,
+      "lane": 6,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 118.272,
+      "lane": 0,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 119.051,
+      "lane": 1,
+      "sectionId": "pajama-9",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 119.438,
+      "lane": 2,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 120.221,
+      "lane": 3,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 120.61,
+      "lane": 4,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 121.0,
+      "lane": 5,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 121.387,
+      "lane": 6,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 121.586,
+      "lane": 0,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 121.78,
+      "lane": 1,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 122.169,
+      "lane": 2,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 122.556,
+      "lane": 3,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 122.949,
+      "lane": 4,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 123.335,
+      "lane": 5,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 123.725,
+      "lane": 6,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 124.505,
+      "lane": 0,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 125.284,
+      "lane": 1,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 125.674,
+      "lane": 2,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 126.064,
+      "lane": 3,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 126.453,
+      "lane": 4,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 126.843,
+      "lane": 5,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 127.233,
+      "lane": 6,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 127.622,
+      "lane": 0,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 128.012,
+      "lane": 1,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 128.402,
+      "lane": 2,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 128.792,
+      "lane": 3,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 129.181,
+      "lane": 4,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 129.571,
+      "lane": 5,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 129.961,
+      "lane": 6,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 130.351,
+      "lane": 0,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 130.74,
+      "lane": 1,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 131.52,
+      "lane": 2,
+      "sectionId": "pajama-10",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 131.909,
+      "lane": 3,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 132.686,
+      "lane": 4,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 133.079,
+      "lane": 5,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 133.465,
+      "lane": 6,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 133.858,
+      "lane": 0,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 134.051,
+      "lane": 1,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 134.245,
+      "lane": 2,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 134.635,
+      "lane": 3,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 135.024,
+      "lane": 4,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 135.417,
+      "lane": 5,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 135.804,
+      "lane": 6,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 136.193,
+      "lane": 0,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 136.976,
+      "lane": 1,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 137.755,
+      "lane": 2,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 138.142,
+      "lane": 3,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 138.532,
+      "lane": 4,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 138.925,
+      "lane": 5,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 139.311,
+      "lane": 6,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 139.701,
+      "lane": 0,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 140.091,
+      "lane": 1,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 140.48,
+      "lane": 2,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 140.87,
+      "lane": 3,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 141.257,
+      "lane": 4,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 141.65,
+      "lane": 5,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 142.039,
+      "lane": 6,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 142.429,
+      "lane": 0,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 142.817,
+      "lane": 1,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 143.209,
+      "lane": 2,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 143.985,
+      "lane": 3,
+      "sectionId": "pajama-11",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 144.375,
+      "lane": 4,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 145.154,
+      "lane": 5,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 145.544,
+      "lane": 6,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 145.934,
+      "lane": 0,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 146.323,
+      "lane": 1,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 146.517,
+      "lane": 2,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 146.713,
+      "lane": 3,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 147.103,
+      "lane": 4,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 147.493,
+      "lane": 5,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 147.882,
+      "lane": 6,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 148.272,
+      "lane": 0,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 148.662,
+      "lane": 1,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 149.441,
+      "lane": 2,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 150.221,
+      "lane": 3,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 150.61,
+      "lane": 4,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 151.0,
+      "lane": 5,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 151.39,
+      "lane": 6,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 151.78,
+      "lane": 0,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 152.169,
+      "lane": 1,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 152.559,
+      "lane": 2,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 152.949,
+      "lane": 3,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 153.338,
+      "lane": 4,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 153.725,
+      "lane": 5,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 154.118,
+      "lane": 6,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 154.505,
+      "lane": 0,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 154.894,
+      "lane": 1,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 155.284,
+      "lane": 2,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 155.674,
+      "lane": 3,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 156.456,
+      "lane": 4,
+      "sectionId": "pajama-12",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 156.843,
+      "lane": 5,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 157.622,
+      "lane": 6,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 158.012,
+      "lane": 0,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 158.402,
+      "lane": 1,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 158.795,
+      "lane": 2,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 158.985,
+      "lane": 3,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 159.181,
+      "lane": 4,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 159.571,
+      "lane": 5,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 159.961,
+      "lane": 6,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 160.354,
+      "lane": 0,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 160.74,
+      "lane": 1,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 161.13,
+      "lane": 2,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 161.912,
+      "lane": 3,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 162.689,
+      "lane": 4,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 163.079,
+      "lane": 5,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 163.468,
+      "lane": 6,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 163.855,
+      "lane": 0,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 164.245,
+      "lane": 1,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 164.635,
+      "lane": 2,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 165.027,
+      "lane": 3,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 165.414,
+      "lane": 4,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 165.804,
+      "lane": 5,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 166.193,
+      "lane": 6,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 166.586,
+      "lane": 0,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 166.973,
+      "lane": 1,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 167.363,
+      "lane": 2,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 167.752,
+      "lane": 3,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 168.142,
+      "lane": 4,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 168.922,
+      "lane": 5,
+      "sectionId": "pajama-13",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 169.311,
+      "lane": 6,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 170.091,
+      "lane": 0,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 170.48,
+      "lane": 1,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 170.87,
+      "lane": 2,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 171.26,
+      "lane": 3,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 171.456,
+      "lane": 4,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 171.65,
+      "lane": 5,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 172.036,
+      "lane": 6,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 172.426,
+      "lane": 0,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 172.816,
+      "lane": 1,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 173.206,
+      "lane": 2,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 173.595,
+      "lane": 3,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 174.375,
+      "lane": 4,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 175.154,
+      "lane": 5,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 175.544,
+      "lane": 6,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 175.934,
+      "lane": 0,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 176.323,
+      "lane": 1,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 176.713,
+      "lane": 2,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 177.103,
+      "lane": 3,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 177.493,
+      "lane": 4,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 177.882,
+      "lane": 5,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 178.272,
+      "lane": 6,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 178.662,
+      "lane": 0,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 179.051,
+      "lane": 1,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 179.441,
+      "lane": 2,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 179.831,
+      "lane": 3,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 180.221,
+      "lane": 4,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 180.61,
+      "lane": 5,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 181.39,
+      "lane": 6,
+      "sectionId": "pajama-14",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 181.78,
+      "lane": 0,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 182.559,
+      "lane": 1,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 182.949,
+      "lane": 2,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 183.338,
+      "lane": 3,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 183.728,
+      "lane": 4,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 183.922,
+      "lane": 5,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 184.118,
+      "lane": 6,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 184.508,
+      "lane": 0,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 184.894,
+      "lane": 1,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 185.287,
+      "lane": 2,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 185.674,
+      "lane": 3,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 186.064,
+      "lane": 4,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 186.843,
+      "lane": 5,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 187.622,
+      "lane": 6,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 188.012,
+      "lane": 0,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 188.402,
+      "lane": 1,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 188.792,
+      "lane": 2,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 189.181,
+      "lane": 3,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 189.571,
+      "lane": 4,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 189.961,
+      "lane": 5,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 190.351,
+      "lane": 6,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 190.74,
+      "lane": 0,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 191.13,
+      "lane": 1,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 191.52,
+      "lane": 2,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 191.909,
+      "lane": 3,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 192.299,
+      "lane": 4,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 192.689,
+      "lane": 5,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 193.076,
+      "lane": 6,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 193.855,
+      "lane": 0,
+      "sectionId": "pajama-15",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 194.245,
+      "lane": 1,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 195.024,
+      "lane": 2,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 195.414,
+      "lane": 3,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 195.804,
+      "lane": 4,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 196.193,
+      "lane": 5,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 196.39,
+      "lane": 6,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 196.586,
+      "lane": 0,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 196.973,
+      "lane": 1,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 197.366,
+      "lane": 2,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 197.752,
+      "lane": 3,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 198.142,
+      "lane": 4,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 198.532,
+      "lane": 5,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 199.314,
+      "lane": 6,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 200.091,
+      "lane": 0,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 200.48,
+      "lane": 1,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 200.87,
+      "lane": 2,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 201.257,
+      "lane": 3,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 201.65,
+      "lane": 4,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 202.036,
+      "lane": 5,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 202.429,
+      "lane": 6,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 202.819,
+      "lane": 0,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 203.209,
+      "lane": 1,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 203.595,
+      "lane": 2,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 203.988,
+      "lane": 3,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 204.378,
+      "lane": 4,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 204.764,
+      "lane": 5,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 205.154,
+      "lane": 6,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 205.544,
+      "lane": 0,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 206.323,
+      "lane": 1,
+      "sectionId": "pajama-16",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 206.713,
+      "lane": 2,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 207.493,
+      "lane": 3,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 207.882,
+      "lane": 4,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 208.272,
+      "lane": 5,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 208.662,
+      "lane": 6,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 208.858,
+      "lane": 0,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 209.051,
+      "lane": 1,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 209.441,
+      "lane": 2,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 209.831,
+      "lane": 3,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 210.221,
+      "lane": 4,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 210.61,
+      "lane": 5,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 211.0,
+      "lane": 6,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 211.777,
+      "lane": 0,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 212.556,
+      "lane": 1,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 212.946,
+      "lane": 2,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 213.335,
+      "lane": 3,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 213.728,
+      "lane": 4,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 214.118,
+      "lane": 5,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 214.506,
+      "lane": 6,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    },
+    {
+      "time": 214.894,
+      "lane": 0,
+      "sectionId": "pajama-17",
+      "timingStatus": "beat-arrangement"
+    }
+  ]
+}
