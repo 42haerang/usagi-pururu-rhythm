@@ -14,135 +14,135 @@
   "events": [
     {
       "time": 1.47,
-      "lane": 0,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 2.21,
-      "lane": 0,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 2.97,
-      "lane": 0,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 3.34,
-      "lane": 0,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 3.72,
-      "lane": 0,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 4.47,
-      "lane": 3,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 4.85,
       "lane": 2,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 5.23,
-      "lane": 1,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 5.6,
       "lane": 2,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 5.97,
-      "lane": 3,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 6.54,
-      "lane": 1,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 7.04,
-      "lane": 1,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 7.47,
-      "lane": 3,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 7.83,
-      "lane": 1,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 8.21,
-      "lane": 1,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 8.58,
-      "lane": 4,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 2,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 8.97,
-      "lane": 4,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 3,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 9.33,
-      "lane": 3,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 4,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 9.58,
-      "lane": 2,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 3,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 10.09,
-      "lane": 3,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 4,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 10.47,
       "lane": 3,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 10.84,
-      "lane": 3,
-      "timingStatus": "onset-and-sound-cluster-estimate",
-      "syllableStatus": "unverified"
+      "lane": 4,
+      "timingStatus": "onset-estimate",
+      "syllableStatus": "user-approximate"
     },
     {
       "time": 11.08,
@@ -457,5 +457,5 @@
       "syllableStatus": "unverified"
     }
   ],
-  "arrangement": "Estimated from onset and timbre clusters. Syllable labels are unverified."
+  "arrangement": "First 22 notes use the user-provided approximate ha/ura sequence; times are onset estimates. Later syllable assignments remain unverified."
 }
