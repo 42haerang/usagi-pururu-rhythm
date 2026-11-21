@@ -2,7 +2,7 @@
   "title": "우사기 Last Christmas",
   "videoId": "4wZZXj6M0RU",
   "sourceUrl": "https://www.youtube.com/watch?v=4wZZXj6M0RU",
-  "duration": 148,
+  "duration": 24.86,
   "labels": [
     "이",
     "야",
@@ -14,1727 +14,409 @@
   ],
   "events": [
     {
-      "time": 2.47,
+      "time": 1.085,
       "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 3.04,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 3.6,
+      "time": 1.53,
       "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 4.17,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 4.72,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 5.29,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 5.85,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 6.41,
+      "time": 1.8,
       "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 6.97,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "time": 2.245,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 7.54,
+      "time": 2.804,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 2.96,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 3.372,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 3.771,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 3.901,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 4.21,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 4.739,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 4.93,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 5.308,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 5.897,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 6.09,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 6.425,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 7.014,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 7.293,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 7.696,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 7.852,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 8.271,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 8.505,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 8.99,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 9.259,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 9.49,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 9.935,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 10.396,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 10.65,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 11.095,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 11.514,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 11.793,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 12.352,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 12.525,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 12.901,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 13.065,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 13.51,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 13.729,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 14.148,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 14.677,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 14.896,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 15.21,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 15.754,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 16.034,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 16.313,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 16.582,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 16.872,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 17.18,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 17.39,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 17.895,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 18.109,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 18.61,
       "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "이",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 8.1,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 8.66,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 9.09,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 9.5,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 10.34,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 10.91,
+      "time": 18.787,
       "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "야",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 11.47,
+      "time": 19.346,
       "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 12.04,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 12.59,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 13.16,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 13.72,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 14.28,
+      "time": 19.77,
       "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 14.84,
+      "time": 20.204,
+      "lane": 3,
+      "syllable": "우",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 20.513,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 20.773,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "anchor-and-onset-estimate"
+    },
+    {
+      "time": 21.2,
       "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "야",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 15.4,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 15.96,
+      "time": 21.361,
       "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 16.52,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 17.09,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 17.51,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 17.94,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 18.78,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 19.09,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 19.59,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 20.16,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 20.46,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 20.99,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 21.3,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
       "time": 21.87,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 22.27,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 22.72,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 23.02,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 23.33,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 23.84,
       "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "푸룻",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 24.4,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 24.95,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 25.52,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 25.83,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 26.37,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 26.79,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 27.21,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 27.77,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 28.33,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 29.13,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 29.45,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 30.02,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 30.32,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 30.86,
+      "time": 22.17,
       "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "푸룻",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 31.42,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 32.0,
+      "time": 22.718,
       "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "야",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 32.54,
+      "time": 22.9,
       "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 33.1,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 33.67,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 34.24,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 34.68,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 35.08,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 35.51,
+      "time": 23.297,
       "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "야",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 35.92,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 36.23,
+      "time": 23.586,
       "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     },
     {
-      "time": 36.76,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 37.11,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 37.6,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 38.17,
+      "time": 24.06,
       "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 38.73,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 39.3,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 40.14,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 40.69,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 41.02,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 41.37,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 41.82,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 42.38,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 42.94,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 43.51,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 43.81,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 44.32,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 44.63,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 45.2,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 45.56,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 46.03,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 46.37,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 46.88,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 47.41,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 47.72,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 48.33,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 48.85,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 49.42,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 50.01,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 50.52,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 51.1,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 51.44,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 51.94,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 52.24,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 53.06,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 53.63,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 54.05,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 54.47,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 55.0,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 55.31,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 55.87,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 56.43,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 57.0,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 57.56,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 58.12,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 58.65,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 59.25,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 59.8,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 60.37,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 60.72,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 61.21,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 61.65,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 62.28,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 62.62,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 62.92,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 63.46,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 63.97,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 64.3,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 64.86,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 65.43,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 66.0,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 66.55,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 67.11,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 67.68,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 68.24,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 68.8,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 69.36,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 69.93,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 70.49,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 71.05,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 71.61,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 72.45,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 72.94,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 73.29,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 73.86,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 74.42,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 74.98,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 75.54,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 76.11,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 76.67,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 77.06,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 77.46,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 78.08,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 78.64,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 79.2,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 79.62,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 79.96,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 80.31,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 80.86,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 81.44,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 81.94,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 82.56,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 82.88,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 83.41,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 83.98,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 84.29,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 84.82,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 85.27,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 85.66,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 86.23,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 86.55,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 86.91,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 87.34,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 87.87,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 88.18,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 88.48,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 88.78,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 89.31,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 89.74,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 90.15,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 90.72,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 91.29,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 91.84,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 92.4,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 92.96,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 93.5,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 93.82,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 94.65,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 95.24,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 95.78,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 96.63,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 97.18,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 98.03,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 98.33,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 98.88,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 99.72,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 100.03,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 100.33,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 100.85,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 101.4,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 101.9,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 102.24,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 103.09,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 103.64,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 104.21,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 104.77,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 105.33,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 105.63,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 106.19,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 106.63,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 107.02,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 107.58,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 108.02,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 108.71,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 109.21,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 109.55,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 110.08,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 110.39,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 110.95,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 111.51,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 112.08,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 112.64,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 112.94,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 113.25,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 113.76,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 114.33,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 114.64,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 115.15,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 115.46,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 116.01,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 116.57,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 116.87,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 117.7,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 118.26,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 118.82,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 119.33,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 119.65,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 119.95,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 120.25,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 120.79,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 121.33,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 121.92,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 122.45,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 123.02,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 123.32,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 124.16,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 124.6,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 125.01,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 125.57,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 125.99,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 126.7,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 127.18,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 127.53,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 127.86,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 128.38,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 128.72,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 129.22,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 129.76,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 130.06,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 130.63,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 130.95,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 131.3,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 131.76,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 132.31,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 132.87,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 133.44,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 134.0,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 134.57,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 135.12,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 135.69,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 136.25,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 136.81,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 137.33,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 137.65,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 138.24,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 138.77,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 139.34,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 139.93,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 140.46,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 141.03,
-      "lane": 0,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 141.87,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 142.17,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 142.57,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 143.0,
-      "lane": 5,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 143.42,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 143.84,
-      "lane": 1,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 144.68,
-      "lane": 2,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 145.24,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 145.8,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 146.36,
-      "lane": 3,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
-    },
-    {
-      "time": 146.93,
-      "lane": 4,
-      "timingStatus": "onset-estimate",
-      "syllableStatus": "unverified"
+      "syllable": "하",
+      "timingStatus": "anchor-and-onset-estimate"
     }
   ],
-  "arrangement": "Onset-based draft. Syllable labels are a repeating pattern, not confirmed to match vocals."
+  "arrangement": "Opening only. User supplied the syllables and two audio landmarks; intervening times are estimates.",
+  "userIntro": {
+    "eventCount": 66,
+    "lastTime": 24.06,
+    "anchors": [
+      1.085,
+      18.61
+    ]
+  }
 }
