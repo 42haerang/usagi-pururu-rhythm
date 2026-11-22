@@ -2,7 +2,7 @@
   "title": "우사기 Last Christmas",
   "videoId": "4wZZXj6M0RU",
   "sourceUrl": "https://www.youtube.com/watch?v=4wZZXj6M0RU",
-  "duration": 24.86,
+  "duration": 148,
   "labels": [
     "이",
     "야",
@@ -14,409 +14,2536 @@
   ],
   "events": [
     {
-      "time": 1.085,
+      "time": 0.581,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 1.53,
+      "time": 1.209,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 1.8,
+      "time": 1.411,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 2.245,
+      "time": 1.761,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 2.804,
+      "time": 2.323,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 2.96,
+      "time": 2.612,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 3.372,
+      "time": 2.945,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 3.771,
+      "time": 3.182,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 3.901,
+      "time": 3.497,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 4.21,
+      "time": 3.745,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 4.739,
+      "time": 4.295,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 4.93,
+      "time": 4.593,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 5.308,
+      "time": 5.189,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 5.897,
+      "time": 5.687,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 6.09,
+      "time": 6.018,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 6.425,
+      "time": 6.31,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 7.014,
+      "time": 6.828,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 7.293,
+      "time": 7.098,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 7.696,
+      "time": 7.437,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 7.852,
+      "time": 7.662,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 8.271,
+      "time": 7.955,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 8.505,
+      "time": 8.255,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 8.99,
+      "time": 8.809,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 9.259,
+      "time": 9.05,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 9.49,
+      "time": 9.393,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 9.935,
+      "time": 9.626,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 10.396,
+      "time": 10.216,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 10.65,
+      "time": 10.445,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 11.095,
+      "time": 10.713,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 11.514,
+      "time": 11.318,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 11.793,
+      "time": 11.565,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 12.352,
+      "time": 11.911,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 12.525,
+      "time": 12.129,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 12.901,
+      "time": 12.462,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 13.065,
+      "time": 12.699,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 13.51,
+      "time": 13.282,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 13.729,
+      "time": 13.581,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 14.148,
+      "time": 14.145,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 14.677,
+      "time": 14.706,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 14.896,
+      "time": 14.999,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 15.21,
+      "time": 15.347,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 15.754,
+      "time": 15.871,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 16.034,
+      "time": 16.109,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 16.313,
+      "time": 16.452,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 16.582,
+      "time": 16.677,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 16.872,
+      "time": 16.994,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 17.18,
+      "time": 17.219,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 17.39,
+      "time": 17.791,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 17.895,
+      "time": 18.016,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
-      "time": 18.109,
-      "lane": 2,
-      "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
-    },
-    {
-      "time": 18.61,
+      "time": 18.607,
       "lane": 0,
-      "syllable": "이",
-      "timingStatus": "anchor-and-onset-estimate"
+      "syllable": "이야",
+      "timingStatus": "user-recorded",
+      "syllableStatus": "user-recorded"
     },
     {
       "time": 18.787,
       "lane": 1,
       "syllable": "야",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
+    },
+    {
+      "time": 19.097,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
       "time": 19.346,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
-      "time": 19.77,
-      "lane": 2,
-      "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "time": 19.645,
+      "lane": 3,
+      "syllable": "우",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
+    },
+    {
+      "time": 19.925,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
       "time": 20.204,
-      "lane": 3,
-      "syllable": "우",
-      "timingStatus": "anchor-and-onset-estimate"
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
       "time": 20.513,
-      "lane": 4,
-      "syllable": "나",
-      "timingStatus": "anchor-and-onset-estimate"
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
       "time": 20.773,
-      "lane": 4,
-      "syllable": "나",
-      "timingStatus": "anchor-and-onset-estimate"
-    },
-    {
-      "time": 21.2,
-      "lane": 1,
-      "syllable": "야",
-      "timingStatus": "anchor-and-onset-estimate"
-    },
-    {
-      "time": 21.361,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
+    },
+    {
+      "time": 21.042,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
+    },
+    {
+      "time": 21.322,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
       "time": 21.87,
-      "lane": 5,
-      "syllable": "푸룻",
-      "timingStatus": "anchor-and-onset-estimate"
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
       "time": 22.17,
-      "lane": 5,
-      "syllable": "푸룻",
-      "timingStatus": "anchor-and-onset-estimate"
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
+    },
+    {
+      "time": 22.489,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
       "time": 22.718,
-      "lane": 1,
-      "syllable": "야",
-      "timingStatus": "anchor-and-onset-estimate"
-    },
-    {
-      "time": 22.9,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
-      "time": 23.297,
-      "lane": 1,
-      "syllable": "야",
-      "timingStatus": "anchor-and-onset-estimate"
+      "time": 23.078,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "user-sequence-alignment-estimate"
     },
     {
       "time": 23.586,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
     },
     {
-      "time": 24.06,
+      "time": 23.846,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 24.405,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 24.704,
       "lane": 2,
       "syllable": "하",
-      "timingStatus": "anchor-and-onset-estimate"
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 25.283,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 25.861,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 26.639,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 26.979,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 27.767,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 28.046,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 28.904,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 29.174,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 29.473,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 29.742,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 30.022,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 30.311,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 30.86,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 31.159,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 31.459,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 32.067,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 32.267,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 32.566,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 33.165,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 33.733,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 33.973,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 34.262,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 35.34,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 35.679,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 36.108,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 37.096,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 37.664,
+      "lane": 3,
+      "syllable": "우",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 37.934,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 38.223,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 38.512,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 38.792,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 39.051,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 39.361,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 39.889,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 40.199,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 40.488,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 40.727,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 41.087,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 41.306,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 41.615,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 41.895,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 42.434,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 42.723,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 43.022,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 43.292,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 43.591,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 43.85,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 44.389,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 44.678,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 44.968,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 46.075,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 47.193,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 47.482,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 47.801,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 48.031,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 48.34,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 48.889,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 49.478,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 49.647,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 49.807,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 50.066,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 50.296,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 50.585,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 51.174,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 51.722,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 52.291,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 52.85,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 53.379,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 54.207,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 54.766,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 55.075,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 55.334,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 55.903,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 56.202,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 56.492,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 56.761,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 57.04,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 57.33,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 57.589,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 57.868,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 58.168,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 58.437,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 58.707,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 59.265,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 59.585,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 59.854,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 60.393,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 60.702,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 60.981,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 61.251,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 61.53,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 61.81,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 62.079,
+      "lane": 3,
+      "syllable": "우",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 62.348,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 62.668,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 62.947,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 63.236,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 63.745,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 64.324,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 64.873,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 65.182,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 65.461,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 65.741,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 66.02,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 66.309,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 66.589,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 66.848,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 67.157,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 67.437,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 67.706,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 68.255,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 68.554,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 68.834,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 69.372,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 69.682,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 69.961,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 70.24,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 70.52,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 70.809,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 71.338,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 71.637,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 72.805,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 73.273,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 73.643,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 74.132,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 74.381,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 75.239,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 76.177,
+      "lane": 3,
+      "syllable": "우",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 76.995,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 77.274,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 77.504,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 77.783,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 78.142,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 78.681,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 79.0,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 79.27,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 79.759,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 80.038,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 80.357,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 80.737,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 80.906,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 81.754,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 81.954,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 82.173,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 82.602,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 83.47,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 83.77,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 84.039,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 84.338,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 84.887,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 85.995,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 86.553,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 86.863,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 87.631,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 87.93,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 88.239,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 88.778,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 89.387,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 90.185,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 90.714,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 90.933,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 91.302,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 91.841,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 92.151,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 92.48,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 92.709,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 93.019,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 93.278,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 93.567,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 93.827,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 94.635,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 95.214,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 95.533,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 96.102,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 96.361,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 96.65,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 96.93,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 97.219,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 97.548,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 97.788,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 98.626,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 99.195,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 99.693,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 100.102,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 100.282,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 100.591,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 100.841,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 101.11,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 102.298,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 103.106,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 103.405,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 103.654,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 104.203,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 104.502,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 105.121,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 105.39,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 105.64,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 105.979,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 106.268,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 106.538,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 106.787,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 108.713,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 109.002,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 109.601,
+      "lane": 3,
+      "syllable": "우",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 109.9,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 110.13,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 110.439,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 110.698,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 110.958,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 111.247,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 111.786,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 112.095,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 112.415,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 113.003,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 113.213,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 113.502,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 113.771,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 114.32,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 114.61,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 115.218,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 115.438,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 115.737,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 116.286,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 116.625,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 116.874,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 117.553,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 117.982,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 118.82,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 119.099,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 119.389,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 119.658,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 119.937,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 120.227,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 120.776,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 121.075,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 121.384,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 121.713,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 121.983,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 122.192,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 122.472,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 123.09,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 123.33,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 123.659,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 123.888,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 124.218,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 124.806,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 125.255,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 125.605,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 126.024,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 126.213,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 127.021,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 127.58,
+      "lane": 3,
+      "syllable": "우",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 127.859,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 128.139,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 128.428,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 128.707,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 128.967,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 129.286,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 129.815,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 130.114,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 130.414,
+      "lane": 1,
+      "syllable": "야",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 130.653,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 131.012,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 131.222,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 131.8,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 132.349,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 132.649,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 132.938,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 133.207,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 133.487,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 133.776,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 134.295,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 134.594,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 134.863,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 136.001,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 137.118,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 137.398,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 137.667,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 137.946,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 138.256,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 138.805,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 139.104,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 139.393,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 139.992,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 140.211,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 140.501,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 141.089,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 141.648,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 141.917,
+      "lane": 2,
+      "syllable": "하",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 142.227,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 143.304,
+      "lane": 5,
+      "syllable": "푸룻",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
+    },
+    {
+      "time": 144.043,
+      "lane": 4,
+      "syllable": "나",
+      "timingStatus": "vocal-onset-estimate",
+      "syllableStatus": "timbre-template-estimate"
     }
   ],
-  "arrangement": "Opening only. User supplied the syllables and two audio landmarks; intervening times are estimates.",
-  "userIntro": {
-    "eventCount": 66,
-    "lastTime": 24.06,
-    "anchors": [
-      1.085,
-      18.61
-    ]
+  "arrangement": "First 50 events retain user tap times. Later events are provisional onset/timbre estimates from separated vocals, with unverified syllables.",
+  "userRecording": {
+    "eventCount": 50,
+    "lastTime": 18.607
   }
 }
